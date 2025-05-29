@@ -1,6 +1,9 @@
 # todoList
 
 This template should help get you started developing with Vue 3 in Vite.
+## 📸 Screenshot
+
+![Todo List Screenshot](./public/image/todo.png)
 
 ## Recommended IDE Setup
 
